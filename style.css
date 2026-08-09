@@ -244,7 +244,7 @@ body {
 }
 .pasto {
    position: absolute;
-   bottom: 10px;
+   bottom: 0px;
    background: linear-gradient(to top, #08140a, #1a3d20, #34693a);
    border-radius: 100% 0% 80% 0%;
    transform-origin: bottom center;
