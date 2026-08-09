@@ -18,7 +18,9 @@ body {
    height: 100%;
    display: flex;
    justify-content: center;
-   align-items: flex-center;
+   align-items: flex-end;
+   transform: scale(0.85);
+   transform-origin: bottom center;
 }
 .mensaje {
    position: absolute;
